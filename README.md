@@ -40,6 +40,7 @@ ECNU 计软院合合拆拆，各种群层出不穷，但时间一长便可能失
 | [jxtxzzw](https://github.com/jxtxzzw) | 2020 SEI | aaa |  |  |
 | [jxtxzzw](https://github.com/jxtxzzw) | 2020 SEI | Automation Test |  |  |
 | [jxtxzzw](https://github.com/jxtxzzw) | 2020 SEI | Automation Test |  |  |
+| [jxtxzzw](https://github.com/jxtxzzw) | 2020 SEI | Automation Test |  |  |
 | [虚位以待](https://ecnucse.github.io/ECNU_ITers/join.html) |  |  |  |  |
 
 
