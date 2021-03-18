@@ -23,6 +23,7 @@ ECNU 计软院合合拆拆，各种群层出不穷，但时间一长便可能失
 | [番茄瓜皮](https://github.com/fun4wut)              | 抖音电商前端，招人！                      | https://www.gofun4.top                |
 | [jxtxzzw](https://github.com/jxtxzzw)              | 用志不分，乃凝于神。        | [凝神长老和他的朋友们](https://www.jxtxzzw.com) |
 | [1](https://github.com/2) | aaa |  |
+| [1](https://github.com/2) | aaa |  |
 | [虚位以待](https://ecnucse.github.io/ECNU_ITers/join.html) |  |  |
 
 
